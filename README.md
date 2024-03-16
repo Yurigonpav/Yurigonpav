@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I am a student of programming and languages ​​such as English and Mandarin.<br>Email: yurigon2006@gmail.com</p>
+<p align="center">I am a student of programming and languages ​​such as English and Mandarin.<br>Email: yurigon135@gmail.com</p>
 
 ###
 
