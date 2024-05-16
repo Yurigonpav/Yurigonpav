@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="center">I am a programming student, I was born in 2006 and I study in Brazilian high school</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
